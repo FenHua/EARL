@@ -4,7 +4,7 @@ This repository provides a simple implementation of the work "Efficient Sparse A
 
 **Example:**
 
-![](C:\Users\FenHua\Desktop\EARL\example.jpg)
+![](example.jpg)
 
 **Demo:**
 
