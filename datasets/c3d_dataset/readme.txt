@@ -1,0 +1,1 @@
+run "c3d_opt.py" and generate "*_params.pkl".
