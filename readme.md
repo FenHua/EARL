@@ -28,5 +28,13 @@ You can train the recognition model with your own data, and use the video attack
 
 **Please cite:**
 
-It will be added soon!
+```
+@inproceedings{yan2021efficient,
+  title={Efficient Sparse Attacks on Videos using Reinforcement Learning},
+  author={Yan, Huanqian and Wei, Xingxing},
+  booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
+  pages={2326--2334},
+  year={2021}
+}
+```
 
